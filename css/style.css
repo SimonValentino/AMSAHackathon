@@ -184,3 +184,29 @@ p {
     padding-bottom: 60px;
 }
 
+.info-section {
+    background-color: white;
+    padding: 80px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-title {
+    font-size: 110px;
+    color: var(--peach);
+    padding-right: 100px;
+}
+
+.info-header {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.info-text {
+    font-size: 18px;
+    color: black;
+}
