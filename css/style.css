@@ -3,6 +3,7 @@
     --blue: #0272ba;
     --light-blue: #008ee6;
     --orange: #F37043;
+    --light-orange: #ff8258;
     --clay: #99738E;
     --grey: #464646;
     --dark-grey: #2d2d2d;
@@ -31,7 +32,7 @@ p {
 }
 
 .nav-link {
-    transition: 0.4s;
+    transition: 0.3s;
 }
 
 .nav-link:hover {
@@ -84,7 +85,8 @@ p {
 }
 
 .title {
-    font-size: 90px;
+    font-size: 100px;
+    font-weight: bold;
     margin-bottom: 20px;
     color: white;
 }
