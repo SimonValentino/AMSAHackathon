@@ -47,13 +47,13 @@ p {
 }
 
 .navbar li {
-    margin-right: 15px;
+    margin-right: 17px;
 }
 
 .navbar a {
     text-decoration: none;
     color: white;
-    font-size: 25px;
+    font-size: 21.5px;
 }
 
 .nav-logo {
@@ -175,8 +175,8 @@ p {
     padding-top: 140px;
 }
 
-.feature h2,
-p {
+.feature-title,
+.feature-description {
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -184,14 +184,15 @@ p {
     color: white;
 }
 
-.feature h2 {
-    font-size: 50px;
-    margin-bottom: 15px;
-}
-
-.feature p {
+.feature-description {
     font-size: 24px;
     padding-bottom: 60px;
+    text-align: center;
+}
+
+.feature-title {
+    font-size: 50px;
+    margin-bottom: 15px;
 }
 
 .info-section {
@@ -319,16 +320,16 @@ p {
     color: white;
 }
 
-a {
+.sponsors-section a {
     color: var(--link-color);
     transition: 0.6s;
 }
 
-a:visited {
+.sponsors-section a:visited {
     color: var(--link-color);
 }
 
-a:hover {
+.sponsors-section a:hover {
     color: rgb(124, 184, 253);
 }
 
