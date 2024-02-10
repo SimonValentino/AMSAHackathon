@@ -333,6 +333,18 @@ p {
     color: rgb(124, 184, 253);
 }
 
+.conduct-title {
+    font-size: 100px;
+    color: var(--orange);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.conduct-text {
+    margin-bottom: 30px;
+}
+
 .contact-section {
     background-color: var(--dark-blue);
     padding: 80px 0;
