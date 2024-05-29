@@ -1,21 +1,22 @@
-MIT License
+This License Agreement ("Agreement") is entered into by and between Simon Valentino ("Licensor") and any individual or entity ("Licensee") who accesses or uses the software, code, or associated documentation (collectively, the "Software") available in this GitHub repository.
 
-Copyright (c) 2024 Simon Valentino
+Grant of License: The Licensor grants the Licensee a limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to use the Software solely for the purposes explicitly authorized in writing by the Licensor. Any use of the Software without the express written permission of the Licensor is strictly prohibited.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Conditions of Use: The Licensee must obtain explicit written authorization from the Licensor before using the Software for any purpose. The Licensor reserves the right to grant or deny authorization at their sole discretion. The Licensor reserves the right to terminate the Licensee's authorization to use the Software at any time and for any reason. Upon receiving notice of such termination, the Licensee must immediately cease all use of the Software and delete any copies in their possession or control.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Restrictions: The Licensee is expressly prohibited from using, copying, modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software without the Licensor's prior written consent. The Licensee is also prohibited from decompiling, reverse engineering, or disassembling the Software, except as required by applicable law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Disclaimer of Warranty: The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+Indemnification: The Licensee agrees to indemnify, defend, and hold harmless the Licensor from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from the Licensee's use of the Software.
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
+
+Entire Agreement: This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, relating to such subject matter.
+
+Amendment and Waiver: No amendment or waiver of any provision of this Agreement shall be effective unless in writing and signed by the Licensor. No failure or delay by the Licensor in exercising any right, power, or remedy under this Agreement shall operate as a waiver thereof.
+
+By accessing or using the Software, the Licensee acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this License Agreement.
+
+Licensor: Simon Valentino
+Effective Date: 5/28/2024
